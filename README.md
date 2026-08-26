@@ -30,7 +30,7 @@ The dataset contains demographic and professional information, including:
 * Work-life balance
 * Perceived difficulty of breaking into the data industry
 
-The dataset was relatively clean overall. However, **job titles and industries contained a large number of scattered categories**. To keep the dashboard focused on the overall picture rather than detailed category-level analysis, less frequent categories were grouped into **"Others"** where appropriate.
+The dataset was relatively clean overall. However, minor cleaning like taking the average of the salary range to get hard numbers and aggregating "Other" choices for some questionnaire to get more accurate insights took place.
 
 ## Key Findings
 
@@ -47,7 +47,7 @@ The dataset was relatively clean overall. However, **job titles and industries c
 
 ### Overview
 
-![Power BI Dashboard](dashboardscreenshot.png)
+![Power BI Dashboard](screenshotdashboard.png)
 
 
 ## Tools Used
